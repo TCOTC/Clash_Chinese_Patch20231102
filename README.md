@@ -1,6 +1,6 @@
-# Clash_Chinese_Patch
+## 注意，该仓库已基本删除
 
-## 注意！该仓库即将删除！！！
+# Clash_Chinese_Patch
 
 [![](https://img.shields.io/badge/Telegram-公告板-blue)](https://t.me/ClashR_for_Windows_Channel)
 [![](https://img.shields.io/badge/Telegram-交流群-purple)](https://t.me/+Se4RSc06w8QK1HiS)
@@ -19,7 +19,7 @@
 
 ---
 
-居然有人以为下载了就能直接用的😅，还是放两个我自己用的机场吧
+不是下载了就能直接用的😅，还是放两个我自己用的机场吧
 
 还算便宜且比较稳定（建议按月充值，以免跑路）：[星链计划](https://starlink.to/#/register?code=ZGpZxxUy)
 
