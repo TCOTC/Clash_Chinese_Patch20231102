@@ -1,4 +1,8 @@
-## 注意，该仓库已基本删除
+## 注意，该仓库安装包已删除，下载安装包请打开外链
+
+![image](https://github.com/TCOTC/Clash_Chinese_Patch20231102/assets/78434827/96ed87fa-ad59-4a6d-8ca3-f41698c18af9)
+
+![image](https://github.com/TCOTC/Clash_Chinese_Patch20231102/assets/78434827/30cefdd2-ee28-4843-b589-2c672cb06a71)
 
 # Clash_Chinese_Patch
 
