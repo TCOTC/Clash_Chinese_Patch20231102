@@ -1,5 +1,7 @@
 # Clash_Chinese_Patch
 
+## 注意！该仓库即将删除！！！
+
 [![](https://img.shields.io/badge/Telegram-公告板-blue)](https://t.me/ClashR_for_Windows_Channel)
 [![](https://img.shields.io/badge/Telegram-交流群-purple)](https://t.me/+Se4RSc06w8QK1HiS)
 
