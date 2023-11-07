@@ -28,7 +28,3 @@
 还算便宜且比较稳定（建议按月充值，以免跑路）：[星链计划](https://starlink.to/#/register?code=ZGpZxxUy)
 
 按量计费特别便宜但不太稳定（充10块钱够用好久了）：[Taffy Cloud](https://taffy.cloud/#/login?type=reg&affcode=1lJZlvoC)
-
----
-
-软件仅供学习，24小时内删除。
