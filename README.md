@@ -31,3 +31,7 @@
 
 `Clash for Windows\resources\app.asar`
 
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/TCOTC/Clash_Chinese_Patch20231102.svg)](https://starchart.cc/TCOTC/Clash_Chinese_Patch20231102)
